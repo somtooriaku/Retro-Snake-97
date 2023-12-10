@@ -1,0 +1,11 @@
+# Steps in snake game
+1. Create blank canvas and game loop
+2. Creating the food
+3. Creating the snake
+4. Moving the snake
+5. Making the Snake eat the food
+6. Making the Snake grow longer
+7. Checking for collision with edges and tail
+8. adding title and frame
+9. Keeping score
+10. Adding sound
