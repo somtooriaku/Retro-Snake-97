@@ -8,7 +8,10 @@ Created the 1997 original Retro snake game using python.
 ## 🔍 Preview
 
 
-https://github.com/somtooriaku/Retro-Snake-97/assets/59647845/5446da8c-6c62-4c53-b078-0a305d9dc494
+https://github.com/somtooriaku/Retro-Snake-97/assets/59647845/b887f63e-f110-4036-b36a-dc7ce1f24f99
+
+
+
 
 
 
